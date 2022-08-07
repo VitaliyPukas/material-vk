@@ -1,0 +1,63 @@
+.conteiner {
+    width: 95%;
+    margin: 20px auto;
+}
+
+.content-l {
+    height: 200px;
+    width: 100%;
+   
+}
+.brand-logo {
+    margin-left: 20px;
+}
+.content-r {
+    height: 200px;
+    width: 100%;
+    
+}
+.row .col.s2 {
+    padding: 0;
+}
+ul li a{
+    display: flex;
+    align-items: center;
+}
+ul li a i {
+    margin-right: 5px;
+}
+.smole {
+    font-size: 12px;
+    color: rgb(165, 165, 165);
+}
+.content-search {
+    text-align: end;
+}
+
+.row img {
+    height: 150px;
+}
+
+.block-m {
+    margin-left: 5px;
+    padding: 0px 5px;
+    background-color: #5aa4ee;
+    color: white;
+}
+.pos {
+    position: relative;
+    left: -50px;
+}
+.pos img {
+    margin: 10px 0;
+}
+.active {
+    background-color: rgb(218, 231, 255);
+}
+.card-action {
+    margin: 10px 0;
+   
+}
+.card-pos {
+    border-bottom: 1px solid silver;
+}

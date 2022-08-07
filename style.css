@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+}
+
+.content {
+    margin: 50px auto;
+    width: 40%;
+}
+.brand-logo {
+    margin-left: 20px;
+}
+h5 {
+    text-align: center;
+}
+.new-acaunt {
+   margin-top: 20px;
+   display: inline-block;
+   float: right;
+}
+.nav-img {
+    width: 30px;
+    height: 30px;
+}
+.row .col {
+    padding: 0;
+}
+
+

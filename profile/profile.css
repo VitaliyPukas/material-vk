@@ -1,0 +1,123 @@
+.conteiner {
+    width: 95%;
+    margin: 20px auto;
+}
+
+.content-l {
+    height: 200px;
+    width: 100%;
+   
+}
+.brand-logo {
+    margin-left: 20px;
+}
+.content-r {
+    height: 200px;
+    width: 100%;
+    
+}
+ul li a{
+    display: flex;
+    align-items: center;
+}
+ul li a i {
+    margin-right: 5px;
+}
+.smole {
+    font-size: 12px;
+    color: rgb(165, 165, 165);
+}
+
+.row img {
+    height: 200px;
+}
+.row .col.s3 {
+    position: relative;
+    left: -60px;
+}
+.row .col.s12 {
+    position: relative;
+    left: -60px;
+}
+.block-m {
+    margin-left: 5px;
+    padding: 0px 5px;
+    background-color: #5aa4ee;
+    color: white;
+}
+.pos {
+    position: relative;
+    left: -50px;
+}
+
+.active {
+    background-color: rgb(218, 231, 255);
+}
+.card img {
+    width: 50%;
+    height: 50%;
+}
+.card {
+    width: 100%;
+    text-align: center;
+
+}
+.row .col.s2 {
+    padding: 0;
+}
+.card-action a {
+    width: 90%;
+    background-color: rgb(142, 216, 250);
+}
+
+.card_title {
+    opacity: 0.5;
+}
+.card-frends {
+    text-align: center;
+   height: 120px;
+
+}
+.card-content {
+    margin-bottom: 20px;
+} 
+.card-frends img {
+    width: 60px;
+}
+.card-frends p {
+    font-size: 14px;
+    margin-top: 0;
+}
+.card-right {
+    font-size: 20px;
+    opacity: 0.7;
+}
+.row-t {
+    border-top: 1px solid rgba(192, 192, 192, 0.466);
+    padding-top: 10px;
+}
+.card-senter-b {
+    font-size: 24px;
+}
+
+.card-senter {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.card-act-1 {
+    margin: 10px 0;
+    display: flex;
+}
+.one {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+.one  a{
+    color: rgb(255, 196, 0);
+}
+.one i {
+    padding-right: 10px;
+    font-size: 25px;
+}
